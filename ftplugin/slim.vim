@@ -4,3 +4,4 @@ setlocal shiftwidth=2
 setlocal smarttab
 setlocal expandtab
 setlocal smartindent
+setlocal formatoptions-=t formatoptions+=croql
